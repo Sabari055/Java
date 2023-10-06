@@ -1,0 +1,9 @@
+Java Introduction
+JDK,JRE,JVM
+Variables
+DataTypes-Primitive
+TypeConversion
+Operators- Assignment,Relational,Logical
+If Else, If Else If, Ternary Operator
+Switch Statements
+Loop-For, While, Do while

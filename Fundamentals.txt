@@ -1,0 +1,33 @@
+Variables:
+    A variable is a container which holds the value.
+
+        Types:
+            Local, Instance, Static
+
+            Local Variable:
+                A variable declared inside the body of the method is called local variable. You can use this variable only within that method and the other methods in the class aren't even aware that the variable exists.
+
+            Instance Variable:
+                Instance variables are declared in a class, but outside a method, constructor or any block.
+                Instance variables are created when an object is created with the use of the keyword 'new' and destroyed when the object is destroyed.
+
+            Static Variable:
+                The keyword "Static" is used for defining a static method or a static property of a class. The benefit of a static method is that we do not need to create an instance or object of the class. It does not have multiple values. It will have a single static value defined during initialization.
+
+DataTypes:
+
+    Primitive:
+        Integer, Float, Character, Boolean
+
+        Integer
+        *int- 4 bytes
+        *long- 8 bytes
+        *short- 2 bytes
+        *byte- 1 byte
+
+        Float
+        *float- 4 bytes
+        *double- 8 bytes
+
+        Character
+        *char- 2bytes
