@@ -31,3 +31,16 @@ DataTypes:
 
         Character
         *char- 2bytes
+
+Class:
+    Class is a blue print or logical template for an object that defines the properties of an object and method.
+Object:
+    A object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state.
+    The state of an object is stored in fields (variables), while methods (functions) display the object's behavior.
+
+Method Overloading:
+    Method Overloading allows different methods to have the same name, but different signatures where the signature
+    can differ by the number of input parameters or type of input parameters, or a mixture of both.
+
+    Method overloading in Java is also known as Compile-time Polymorphism, Static Polymorphism, or Early binding.
+    In Method overloading compared to the parent argument, the child argument will get the highest priority.
