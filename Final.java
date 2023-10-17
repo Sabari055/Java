@@ -1,4 +1,11 @@
-class Final{
+final class demo{ // no class can extends the final class it stops the inheritance 
+    public void show()
+    {
+        System.out.println("Final Class");
+    }
+}
+
+class Final{ 
 
     final int a=10; //constant it cannot be changed- final Keyword
     int b=10;
