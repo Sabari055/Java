@@ -4,8 +4,10 @@ class Outer {
     String str = "OuterClass";
 
     class Inside {
-        int a = 10;
-        String str = "InnerClass";
+        public void num()
+        {
+            System.out.println(a);
+        }
     }
 }
 
@@ -16,6 +18,6 @@ public class InnerClass {
         System.out.println(obj.a+" "+obj.str);
 
         Outer.Inside obj1=obj.new Inside();
-        System.out.println(obj1.a+" "+obj.str);
+        obj1.num();
     }
 }
