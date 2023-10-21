@@ -33,3 +33,5 @@ AnonymousInnerClass
 AbstractAnonyomous
 DynamicDispatchMethod
 Interface
+FunctionalInterface
+Lambda Expression
