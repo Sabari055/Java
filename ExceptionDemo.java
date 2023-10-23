@@ -5,7 +5,7 @@ class DemoExc {
 
     public void div() {
         try {
-            j = 18 / 2;
+            j = 18 / 0;
             System.out.println(j);
         } catch (ArithmeticException ae) {
             // ae.printStackTrace();
