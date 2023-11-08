@@ -1,0 +1,79 @@
+Strings
+
+1.Lexicographical Order
+Input:
+welcometojava
+3
+Output:
+ava
+wel
+
+2.print Yes if it is a palindrome, print No otherwise.
+Input:
+MADAM
+Output:
+Yes
+
+3.Anagrams-Two strings,  and , are called anagrams if they contain all the same characters in the same frequencies
+Input:
+anagram
+marganaa
+Output:
+Not Anagrams
+
+4.String Tokens
+Constraints-blank spaces, exclamation points (!), commas (,), question marks (?), periods (.), underscores (_), apostrophes ('), and at symbols (@).
+Input:
+He is a very good boy, isn't he?
+Output:
+9
+He
+is
+a
+very
+good
+boy
+isn
+t
+he
+
+5.Pattern syntax checker
+Input:
+3
+([A-Z])(.+)
+[AZ[a-z](a-z)
+batcatpat(nat
+Output:
+Valid
+Invalid
+Invalid
+
+6.Count words
+
+7.All Substrings
+Input:
+abc
+Output:
+a
+ab
+abc
+b
+bc
+c
+
+8.Reverse String Wordwise
+
+9.Check Permutation
+Input:
+1.abc
+cab
+2.abc
+dca
+Output:
+true
+false
+
+10.Remove Consecutive duplicates
+
+11.Reverse Each word
+
