@@ -59,6 +59,7 @@ class Threads1{
 
         obj1.start();
         obj2.start();
+        sc.close();
 
     }
 
